@@ -1,5 +1,5 @@
 {
-    "name" : "matm/typeaheadbundle",
+    "name" : "slim/typeaheadbundle",
     "description" : "This bundle provides a typeahead form input to your symfony forms based on Twitter Typeahead - Based on Mathieu Muller's version, just omitted the jquery dependancy.",
     "type" : "symfony-bundle",
     "authors" : [{
