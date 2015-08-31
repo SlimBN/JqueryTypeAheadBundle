@@ -1,6 +1,6 @@
 # MATM TYPEAHEADBUNDLE
 
-This bundle provides a typeahead input in your symfony forms based on **Twitter Typeahead**.
+This bundle provides a typeahead form input to your symfony forms based on Twitter Typeahead - Based on Mathieu Muller's version, just omitted the jquery dependancy.
 
 ## INSTALLATION
 
@@ -8,7 +8,7 @@ With composer, add the following line to your composer.json
 
     {
         "require": {
-            "matm/typeaheadbundle": "dev-master"
+            "slim/typeaheadbundle": "dev-master"
         }
     }
 
