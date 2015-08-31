@@ -1,10 +1,10 @@
 {
     "name" : "matm/typeaheadbundle",
-    "description" : "This bundle provides a typeahead form input to your symfony forms based on Twitter Typeahead",
+    "description" : "This bundle provides a typeahead form input to your symfony forms based on Twitter Typeahead - Based on Mathieu Muller's version, just omitted the jquery dependancy.",
     "type" : "symfony-bundle",
     "authors" : [{
-        "name" : "Mathieu Muller",
-        "email" : "mathieu.1984@live.fr"
+        "name" : "Slim Ben Nasrallah",
+        "email" : "slimbennasrallah@gmail.com"
     }],
     "keywords" : [
         "typeahead autocomplete symfony form twitter"
@@ -12,9 +12,6 @@
     "license" : [
         "MIT"
     ],
-    "require" : {
-        "jquery/jquery":  "1.11.*"
-    },
     "autoload" : {
         "psr-0" : {
             "MatM\\Bundle\\TypeAheadBundle" : ""
