@@ -14,10 +14,10 @@
     ],
     "autoload" : {
         "psr-0" : {
-            "MatM\\Bundle\\TypeAheadBundle" : ""
+            "Slim\\Bundle\\TypeAheadBundle" : ""
         }
     },
-    "target-dir" : "MatM/Bundle/TypeAheadBundle",
+    "target-dir" : "Slim/Bundle/TypeAheadBundle",
     "repositories" : [{
     }],
     "extra" : {
