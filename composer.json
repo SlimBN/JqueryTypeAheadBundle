@@ -14,10 +14,10 @@
     ],
     "autoload" : {
         "psr-0" : {
-            "Slim\\Bundle\\TypeAheadBundle" : ""
+            "Hatchvenom\\Bundle\\TypeAheadBundle" : ""
         }
     },
-    "target-dir" : "Slim/Bundle/TypeAheadBundle",
+    "target-dir" : "Hatchvenom/Bundle/TypeAheadBundle",
     "repositories" : [{
     }],
     "extra" : {
